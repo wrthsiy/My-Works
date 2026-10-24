@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Aether",
+    "description": "Спокойный, настраиваемый Markdown-редактор. Живой предпросмотр, Theme Studio с эффектами, автосохранение в браузере, экспорт в .md, .html и PDF. Всё локально, без аккаунта и сервера.",
+    "link": "https://wrthsiy.github.io/Aether/",
+    "ghostQuote": "Тут пишут так, что даже привидениям спокойно."
+  },
+  {
+    "title": "Aether Slides",
+    "description": "Markdown в презентацию. Слайды разделяются строкой ---, настраиваются переходы, эффекты и темы, а экспорт бывает двух видов: self-contained .html, который работает офлайн, и тонкий .html, которому нужен интернет для шрифтов и картинок.",
+    "link": "https://wrthsiy.github.io/Aether-Slides/",
+    "ghostQuote": "Нажми P — и я покажу слайды с другой стороны."
+  },
+  {
+    "title": "Site-Builder",
+    "description": "Визуальный редактор сайтов в стиле Roblox Studio. Перетаскивай блоки на сцену, меняй размер восемью ручками, вращай, собирай несколько объектов и экспортируй всё в один site.html.",
+    "link": "https://wrthsiy.github.io/Site-Builder/",
+    "ghostQuote": "Двигай блоки, я посторожу сцену."
+  },
+
+  {
+    "title": "fix-roblox-images",
+    "description": "Фикс для роблокс картинок",
+    "link": "https://github.com/wrthsiy/fix-roblox-images/releases/tag/v1.1",
+    "ghostQuote": ""
+  },
+
+  {
+    "title": "Pobeg ot TZK",
+    "description": "Шуточно-сатирическая игра про побег",
+    "link": "https://github.com/wrthsiy/pobeg_ot_TZK/releases",
+    "ghostQuote": ""
+  }
+]
